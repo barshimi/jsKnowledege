@@ -1,0 +1,11 @@
+{
+  "name": "jsknowledge",
+  "version": "1.0.0",
+  "description": "javascript knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shimi bar <barshimi@gmail.com>",
+  "license": "ISC"
+}
