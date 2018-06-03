@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "transform-class-properties",
+    "transform-decorators-legacy",
+    "transform-runtime"
+  ],
+  "presets": [
+    "airbnb",
+    "es2015",
+    "stage-0",
+    "stage-1",
+    "stage-2"
+  ],
+  "compact" : false,
+  "env": {
+    "development": {}
+  }
+}

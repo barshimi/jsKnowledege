@@ -5,7 +5,7 @@
  * @param  {[type]} array [description]
  * @return {[type]}       [description]
  */
-function insertionSort(array) {
+module.exports = (array) => {
   var length = array.length;
 
   for(var i = 1; i < length; i++) {
@@ -20,6 +20,3 @@ function insertionSort(array) {
 
   return array;
 }
-
-
-console.log(insertionSort([98, 65, 34, 1, 20, 0]));
